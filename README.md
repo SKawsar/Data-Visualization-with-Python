@@ -34,3 +34,16 @@ Lecture 5:
 - Scatter plot
 - Regression line
 - Pair plot
+
+Lecture 6:
+- Histogram
+- Distribution
+- ecdf (empirical cumulative distribution function)
+
+Lecture 7:
+- Boxplot
+- Violinplot
+
+Lecture 8:
+- Heatmap
+- Time-series plot
