@@ -1,4 +1,8 @@
-# Data Visualization with Python Batch 2
+I taught Data Visualization to 250+ students through an online platform. These are the course materials I built for my students (Mostly graduate-level students from the Non-CS background).
+
+Video Lectures on YouTube: https://lnkd.in/gSQBf58w
+
+# Data Visualization with Python
 
 Lecture 1: 
 - Importance of Good Data Visualization
